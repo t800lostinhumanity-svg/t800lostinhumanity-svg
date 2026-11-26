@@ -18,12 +18,17 @@ I work where **AI meets security**: helping teams use AI tools without putting t
 | [🗂️ ad-audit](https://github.com/t800lostinhumanity-svg/ad-audit) | Read-only Active Directory health & security audit (14 checks, Kerberoasting, krbtgt, privileged groups) with an HTML report | PowerShell |
 | [🌐 subnet-trainer](https://github.com/t800lostinhumanity-svg/subnet-trainer) — [try it](https://t800lostinhumanity-svg.github.io/subnet-trainer/) | Endless IPv4 subnetting and VLSM exercises with step-by-step explanations | JavaScript |
 | [🎹 jazz-chord-lab](https://github.com/t800lostinhumanity-svg/jazz-chord-lab) — [play](https://t800lostinhumanity-svg.github.io/jazz-chord-lab/) | Hear jazz chord charts with real rootless piano voicings and try reharmonisations | JavaScript · Web Audio |
+| [🟣 purple-lab](https://github.com/t800lostinhumanity-svg/purple-lab) | Attack my own lab, then prove I can see it: 7 scenarios (Kerberoasting, SSH brute force…) mapped to MITRE ATT&CK, with Sigma rules | Bash · PowerShell · Sigma |
+| [⚙️ homelab-as-code](https://github.com/t800lostinhumanity-svg/homelab-as-code) | Ansible roles that rebuild and harden the lab's Linux servers, then audit them automatically | Ansible · nftables |
+| [🎫 helpdesk-copilot](https://github.com/t800lostinhumanity-svg/helpdesk-copilot) | AI triage of support tickets (GLPI) with personal data masked and social-engineering attempts flagged | Python · Claude API |
+| [🐧 linux-hardening-check](https://github.com/t800lostinhumanity-svg/linux-hardening-check) | Read-only security audit for Debian/Ubuntu servers, with a score and the fix for each issue | Python |
+| [📓 cyber-journal](https://github.com/t800lostinhumanity-svg/cyber-journal) | My public learning log: TryHackMe, TSSR notes, CLUSIR internship | Markdown |
 | [homelab-proxmox](https://github.com/t800lostinhumanity-svg/homelab-proxmox) | A segmented lab: Active Directory, pfSense firewall and Zabbix monitoring across 3 VLANs | Proxmox VE · Windows Server 2022 · pfSense · Zabbix · PowerShell |
 | AI projects *(coming soon)* | Agents, automation, prompt engineering | Claude · Python |
 
 ### 🛠️ Toolbox
 
-`Windows Server` `Active Directory` `GPO` `DNS/DHCP` `Debian` `Ubuntu Server` `Proxmox VE` `VMware ESXi` `Hyper-V` `Cisco` `VLAN` `pfSense` `OPNsense` `IPsec VPN` `Zabbix` `Centreon` `Veeam` `GLPI` `PowerShell` `Python` `JavaScript` `Claude API`
+`Windows Server` `Active Directory` `GPO` `DNS/DHCP` `Debian` `Ubuntu Server` `Proxmox VE` `VMware ESXi` `Hyper-V` `Cisco` `VLAN` `pfSense` `OPNsense` `IPsec VPN` `Zabbix` `Centreon` `Veeam` `GLPI` `PowerShell` `Python` `JavaScript` `Claude API` `Ansible` `nftables` `Sigma`
 
 ### 🎹 Background
 
