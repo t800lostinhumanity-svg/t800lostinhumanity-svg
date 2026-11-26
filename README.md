@@ -23,6 +23,9 @@ I work where **AI meets security**: helping teams use AI tools without putting t
 | [🎫 helpdesk-copilot](https://github.com/t800lostinhumanity-svg/helpdesk-copilot) | AI triage of support tickets (GLPI) with personal data masked and social-engineering attempts flagged | Python · Claude API |
 | [🐧 linux-hardening-check](https://github.com/t800lostinhumanity-svg/linux-hardening-check) | Read-only security audit for Debian/Ubuntu servers, with a score and the fix for each issue | Python |
 | [📓 cyber-journal](https://github.com/t800lostinhumanity-svg/cyber-journal) | My public learning log: TryHackMe, TSSR notes, CLUSIR internship | Markdown |
+| [🧠 life-os](https://github.com/t800lostinhumanity-svg/life-os) | Build your own AI coach with Claude and Notion: structure, prompts and lessons learned | Claude · Notion |
+| [🧾 kit-freelance](https://github.com/t800lostinhumanity-svg/kit-freelance) — [open](https://t800lostinhumanity-svg.github.io/kit-freelance/) | Quotes, compliant invoices and turnover follow-up for French micro-entrepreneurs | JavaScript |
+| [🗣️ polyglot-it](https://github.com/t800lostinhumanity-svg/polyglot-it) — [open](https://t800lostinhumanity-svg.github.io/polyglot-it/) | IT & cybersecurity vocabulary in 5 languages, with pronunciation, flashcards and quiz | JavaScript · Web Speech |
 | [homelab-proxmox](https://github.com/t800lostinhumanity-svg/homelab-proxmox) | A segmented lab: Active Directory, pfSense firewall and Zabbix monitoring across 3 VLANs | Proxmox VE · Windows Server 2022 · pfSense · Zabbix · PowerShell |
 | AI projects *(coming soon)* | Agents, automation, prompt engineering | Claude · Python |
 
