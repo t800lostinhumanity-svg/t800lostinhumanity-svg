@@ -12,6 +12,7 @@ I work where **AI meets security**: helping teams use AI tools without putting t
 |---|---|---|
 | [🎮 Fortel](https://github.com/t800lostinhumanity-svg/fortel) — [play](https://t800lostinhumanity-svg.github.io/fortel/) | First-person 3D action-strategy game in the browser: 8 heroes, day/night, AI opponent | Three.js · JavaScript · built with AI |
 | [🐔 Cot-Cot Escape](https://github.com/t800lostinhumanity-svg/cot-cot-escape) — [play](https://t800lostinhumanity-svg.github.io/cot-cot-escape/) | 3D co-op platformer: hens climb a 5 km coop tower to the Moon | Three.js · JavaScript · built with AI |
+| [🛡️ log-sentinel](https://github.com/t800lostinhumanity-svg/log-sentinel) | Detects port scans and SSH brute force in pfSense / SSH logs, then writes the incident report with AI on pseudonymised data | Python · Claude API · pfSense |
 | [homelab-proxmox](https://github.com/t800lostinhumanity-svg/homelab-proxmox) | A segmented lab: Active Directory, pfSense firewall and Zabbix monitoring across 3 VLANs | Proxmox VE · Windows Server 2022 · pfSense · Zabbix · PowerShell |
 | AI projects *(coming soon)* | Agents, automation, prompt engineering | Claude · Python |
 
